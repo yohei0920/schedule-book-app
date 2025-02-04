@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScheduleBook</string>
+    <string name="create">登録</string>
+    <string name="get">取得</string>
+    <string name="update">更新</string>
+    <string name="delete">削除</string>
+    <string name="back">戻る</string>
+    <string name="db">データベース</string>
+</resources>
